@@ -23,5 +23,5 @@ function updateTime(){
 
  
 
-//updateTime();
+updateTime();
 setInterval(updateTime)
